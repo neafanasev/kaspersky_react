@@ -1,0 +1,3004 @@
+{
+  "users": {
+    "8575489": {
+      "id": 8575489,
+      "group": "CEO",
+      "fullname": "Gennadij Lukin",
+      "email": "gennadij_lukin@somebox.com",
+      "phone": "+79286383871",
+      "salary": 158300,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "5073216": {
+      "id": 5073216,
+      "group": "Developers",
+      "fullname": "Egor Dorofeev",
+      "email": "egor_dorofeev@somebox.com",
+      "phone": "+79613334732",
+      "salary": 102800,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "4965281": {
+      "id": 4965281,
+      "group": "CEO",
+      "fullname": "Elizaveta Ivleva",
+      "email": "elizaveta_ivleva@somebox.com",
+      "phone": "+79235227476",
+      "salary": 219600,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "3044289": {
+      "id": 3044289,
+      "group": "Financials",
+      "fullname": "Vitalij Petrov",
+      "email": "vitalij_petrov@somebox.com",
+      "phone": "+79869121806",
+      "salary": 212700,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "4632913": {
+      "id": 4632913,
+      "group": "Developers",
+      "fullname": "Boris Solovev",
+      "email": "boris_solovev@somebox.com",
+      "phone": "+79382938458",
+      "salary": 483100,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "5763172": {
+      "id": 5763172,
+      "group": "HR",
+      "fullname": "Vitalij Blohin",
+      "email": "vitalij_blohin@somebox.com",
+      "phone": "+79774196501",
+      "salary": 224700,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "6487074": {
+      "id": 6487074,
+      "group": "Managers",
+      "fullname": "Vjacheslav Borisov",
+      "email": "vjacheslav_borisov@somebox.com",
+      "phone": "+79031733893",
+      "salary": 92600,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "9635772": {
+      "id": 9635772,
+      "group": "Financials",
+      "fullname": "Gennadij Efremov",
+      "email": "gennadij_efremov@somebox.com",
+      "phone": "+79006433021",
+      "salary": 327100,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "9488381": {
+      "id": 9488381,
+      "group": "Managers",
+      "fullname": "Stanislav Semenov",
+      "email": "stanislav_semenov@somebox.com",
+      "phone": "+79101534238",
+      "salary": 320400,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "9128252": {
+      "id": 9128252,
+      "group": "Developers",
+      "fullname": "Darja Novitskaja",
+      "email": "darja_novitskaja@somebox.com",
+      "phone": "+79627466718",
+      "salary": 274400,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "4216564": {
+      "id": 4216564,
+      "group": "HR",
+      "fullname": "Valerija Hovanskaja",
+      "email": "valerija_hovanskaja@somebox.com",
+      "phone": "+79084710991",
+      "salary": 295800,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "2485496": {
+      "id": 2485496,
+      "group": "Developers",
+      "fullname": "Svjatoslav Melnikov",
+      "email": "svjatoslav_melnikov@somebox.com",
+      "phone": "+79927573687",
+      "salary": 418400,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "8118741": {
+      "id": 8118741,
+      "group": "Managers",
+      "fullname": "Arina Denisova",
+      "email": "arina_denisova@somebox.com",
+      "phone": "+79337226634",
+      "salary": 430900,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "5183773": {
+      "id": 5183773,
+      "group": "Teamleads",
+      "fullname": "Kirill Gurev",
+      "email": "kirill_gurev@somebox.com",
+      "phone": "+79054047154",
+      "salary": 355300,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "5002264": {
+      "id": 5002264,
+      "group": "Teamleads",
+      "fullname": "Evgenija Bezrukova",
+      "email": "evgenija_bezrukova@somebox.com",
+      "phone": "+79262170808",
+      "salary": 472500,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "2359463": {
+      "id": 2359463,
+      "group": "Managers",
+      "fullname": "Zoja Tarasova",
+      "email": "zoja_tarasova@somebox.com",
+      "phone": "+79014825420",
+      "salary": 399900,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "4837947": {
+      "id": 4837947,
+      "group": "Developers",
+      "fullname": "Vasilij Tihonov",
+      "email": "vasilij_tihonov@somebox.com",
+      "phone": "+79323632890",
+      "salary": 218500,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "2345591": {
+      "id": 2345591,
+      "group": "Sales",
+      "fullname": "Vladimir Mamontov",
+      "email": "vladimir_mamontov@somebox.com",
+      "phone": "+79704374949",
+      "salary": 171200,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "6223667": {
+      "id": 6223667,
+      "group": "Managers",
+      "fullname": "Boris Filippov",
+      "email": "boris_filippov@somebox.com",
+      "phone": "+79621950877",
+      "salary": 291400,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "6345413": {
+      "id": 6345413,
+      "group": "Sales",
+      "fullname": "Ija Sokolova",
+      "email": "ija_sokolova@somebox.com",
+      "phone": "+79628520529",
+      "salary": 140300,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "6154606": {
+      "id": 6154606,
+      "group": "Financials",
+      "fullname": "Vladimir Koshelev",
+      "email": "vladimir_koshelev@somebox.com",
+      "phone": "+79153090935",
+      "salary": 300200,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "4140594": {
+      "id": 4140594,
+      "group": "Managers",
+      "fullname": "Valentin Birjukov",
+      "email": "valentin_birjukov@somebox.com",
+      "phone": "+79687296901",
+      "salary": 487900,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "1375146": {
+      "id": 1375146,
+      "group": "Sales",
+      "fullname": "Stepan Haritonov",
+      "email": "stepan_haritonov@somebox.com",
+      "phone": "+79271612844",
+      "salary": 249400,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "9357788": {
+      "id": 9357788,
+      "group": "Sales",
+      "fullname": "Timofej Haritonov",
+      "email": "timofej_haritonov@somebox.com",
+      "phone": "+79188775368",
+      "salary": 432100,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "8311903": {
+      "id": 8311903,
+      "group": "Developers",
+      "fullname": "Ekaterina Andreeva",
+      "email": "ekaterina_andreeva@somebox.com",
+      "phone": "+79065854290",
+      "salary": 403400,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "2742532": {
+      "id": 2742532,
+      "group": "Financials",
+      "fullname": "Tamara Matveeva",
+      "email": "tamara_matveeva@somebox.com",
+      "phone": "+79611406985",
+      "salary": 263800,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "9453199": {
+      "id": 9453199,
+      "group": "Financials",
+      "fullname": "Ilja Shubin",
+      "email": "ilja_shubin@somebox.com",
+      "phone": "+79016531826",
+      "salary": 130100,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "8889888": {
+      "id": 8889888,
+      "group": "Managers",
+      "fullname": "Sergej Panfilov",
+      "email": "sergej_panfilov@somebox.com",
+      "phone": "+79955769093",
+      "salary": 439500,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "7919473": {
+      "id": 7919473,
+      "group": "Managers",
+      "fullname": "Vladimir Bespalov",
+      "email": "vladimir_bespalov@somebox.com",
+      "phone": "+79922567904",
+      "salary": 265800,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "6835102": {
+      "id": 6835102,
+      "group": "Unmanaged",
+      "fullname": "Marija Volkova",
+      "email": "marija_volkova@somebox.com",
+      "phone": "+79879299950",
+      "salary": 281900,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "4255129": {
+      "id": 4255129,
+      "group": "Developers",
+      "fullname": "Antonina Poljakova",
+      "email": "antonina_poljakova@somebox.com",
+      "phone": "+79158387889",
+      "salary": 270800,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "3274737": {
+      "id": 3274737,
+      "group": "CEO",
+      "fullname": "Roman Davydov",
+      "email": "roman_davydov@somebox.com",
+      "phone": "+79836710374",
+      "salary": 418400,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "9963770": {
+      "id": 9963770,
+      "group": "Unmanaged",
+      "fullname": "Anastasija Novikova",
+      "email": "anastasija_novikova@somebox.com",
+      "phone": "+79047984975",
+      "salary": 284400,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "7883045": {
+      "id": 7883045,
+      "group": "HR",
+      "fullname": "Vladimir Zhdanov",
+      "email": "vladimir_zhdanov@somebox.com",
+      "phone": "+79607844454",
+      "salary": 163600,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "2776447": {
+      "id": 2776447,
+      "group": "Sales",
+      "fullname": "Nina Volochkova",
+      "email": "nina_volochkova@somebox.com",
+      "phone": "+79281938322",
+      "salary": 255700,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "4271950": {
+      "id": 4271950,
+      "group": "Unmanaged",
+      "fullname": "Mark Zuev",
+      "email": "mark_zuev@somebox.com",
+      "phone": "+79863101441",
+      "salary": 347600,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "6454547": {
+      "id": 6454547,
+      "group": "Teamleads",
+      "fullname": "Semen Pavlov",
+      "email": "semen_pavlov@somebox.com",
+      "phone": "+79814565245",
+      "salary": 123200,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "5505088": {
+      "id": 5505088,
+      "group": "Sales",
+      "fullname": "Nina Kamenskih",
+      "email": "nina_kamenskih@somebox.com",
+      "phone": "+79155267924",
+      "salary": 450300,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "2251077": {
+      "id": 2251077,
+      "group": "Teamleads",
+      "fullname": "Svjatoslav Odintsov",
+      "email": "svjatoslav_odintsov@somebox.com",
+      "phone": "+79277008168",
+      "salary": 297800,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "1216275": {
+      "id": 1216275,
+      "group": "Developers",
+      "fullname": "Viktorija Lenskaja",
+      "email": "viktorija_lenskaja@somebox.com",
+      "phone": "+79201083630",
+      "salary": 211500,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "6333659": {
+      "id": 6333659,
+      "group": "Managers",
+      "fullname": "Sofija Andreeva",
+      "email": "sofija_andreeva@somebox.com",
+      "phone": "+79262658911",
+      "salary": 310200,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "8889748": {
+      "id": 8889748,
+      "group": "Developers",
+      "fullname": "Nikita Bolshakov",
+      "email": "nikita_bolshakov@somebox.com",
+      "phone": "+79395837256",
+      "salary": 101500,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "9386805": {
+      "id": 9386805,
+      "group": "CEO",
+      "fullname": "Valentina Ivleva",
+      "email": "valentina_ivleva@somebox.com",
+      "phone": "+79238300291",
+      "salary": 216400,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "8157477": {
+      "id": 8157477,
+      "group": "HR",
+      "fullname": "Roman Kononov",
+      "email": "roman_kononov@somebox.com",
+      "phone": "+79411818544",
+      "salary": 463500,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "3914932": {
+      "id": 3914932,
+      "group": "HR",
+      "fullname": "Nikita Silin",
+      "email": "nikita_silin@somebox.com",
+      "phone": "+79673235960",
+      "salary": 438800,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "7348886": {
+      "id": 7348886,
+      "group": "Unmanaged",
+      "fullname": "Ksenija Tarasova",
+      "email": "ksenija_tarasova@somebox.com",
+      "phone": "+79056847501",
+      "salary": 128700,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "2442045": {
+      "id": 2442045,
+      "group": "HR",
+      "fullname": "Timofej Belozerov",
+      "email": "timofej_belozerov@somebox.com",
+      "phone": "+79645325969",
+      "salary": 320600,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "4321205": {
+      "id": 4321205,
+      "group": "Teamleads",
+      "fullname": "Evgenij Voronov",
+      "email": "evgenij_voronov@somebox.com",
+      "phone": "+79875347586",
+      "salary": 251100,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "7210993": {
+      "id": 7210993,
+      "group": "Unmanaged",
+      "fullname": "Makar Artemev",
+      "email": "makar_artemev@somebox.com",
+      "phone": "+79223941466",
+      "salary": 296000,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "1126749": {
+      "id": 1126749,
+      "group": "Managers",
+      "fullname": "Alena Uljanova",
+      "email": "alena_uljanova@somebox.com",
+      "phone": "+79162837637",
+      "salary": 320700,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "8486933": {
+      "id": 8486933,
+      "group": "Sales",
+      "fullname": "Timofej Guljaev",
+      "email": "timofej_guljaev@somebox.com",
+      "phone": "+79531060033",
+      "salary": 384600,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "2342900": {
+      "id": 2342900,
+      "group": "HR",
+      "fullname": "Oleg Odintsov",
+      "email": "oleg_odintsov@somebox.com",
+      "phone": "+79854136841",
+      "salary": 136800,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "3574648": {
+      "id": 3574648,
+      "group": "Developers",
+      "fullname": "Maksim Konstantinov",
+      "email": "maksim_konstantinov@somebox.com",
+      "phone": "+79332654048",
+      "salary": 410900,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "9651030": {
+      "id": 9651030,
+      "group": "Unmanaged",
+      "fullname": "Egor Kolobov",
+      "email": "egor_kolobov@somebox.com",
+      "phone": "+79091204366",
+      "salary": 218000,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "2853662": {
+      "id": 2853662,
+      "group": "Financials",
+      "fullname": "Ljudmila Volochkova",
+      "email": "ljudmila_volochkova@somebox.com",
+      "phone": "+79182869271",
+      "salary": 312900,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "1090502": {
+      "id": 1090502,
+      "group": "HR",
+      "fullname": "Julija Rodochinskaja",
+      "email": "julija_rodochinskaja@somebox.com",
+      "phone": "+79611175353",
+      "salary": 163100,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "7884486": {
+      "id": 7884486,
+      "group": "Managers",
+      "fullname": "Gennadij Zhdanov",
+      "email": "gennadij_zhdanov@somebox.com",
+      "phone": "+79119508319",
+      "salary": 62500,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "2493186": {
+      "id": 2493186,
+      "group": "Sales",
+      "fullname": "Petr Kudrjashov",
+      "email": "petr_kudrjashov@somebox.com",
+      "phone": "+79427185182",
+      "salary": 449200,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "2435424": {
+      "id": 2435424,
+      "group": "Unmanaged",
+      "fullname": "Ija Lebedeva",
+      "email": "ija_lebedeva@somebox.com",
+      "phone": "+79028560256",
+      "salary": 326800,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "5290474": {
+      "id": 5290474,
+      "group": "Teamleads",
+      "fullname": "Mihail Kuzmin",
+      "email": "mihail_kuzmin@somebox.com",
+      "phone": "+79606530555",
+      "salary": 306100,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "3539352": {
+      "id": 3539352,
+      "group": "CEO",
+      "fullname": "Vjacheslav Martynov",
+      "email": "vjacheslav_martynov@somebox.com",
+      "phone": "+79942356635",
+      "salary": 388900,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "2285137": {
+      "id": 2285137,
+      "group": "Managers",
+      "fullname": "Marija Nazarova",
+      "email": "marija_nazarova@somebox.com",
+      "phone": "+79288471621",
+      "salary": 185600,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "7538166": {
+      "id": 7538166,
+      "group": "Sales",
+      "fullname": "Elena Lebedeva",
+      "email": "elena_lebedeva@somebox.com",
+      "phone": "+79658805656",
+      "salary": 487900,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "8767548": {
+      "id": 8767548,
+      "group": "Financials",
+      "fullname": "Boris Osipov",
+      "email": "boris_osipov@somebox.com",
+      "phone": "+79691481162",
+      "salary": 368300,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "8584269": {
+      "id": 8584269,
+      "group": "Developers",
+      "fullname": "Olga Poljakova",
+      "email": "olga_poljakova@somebox.com",
+      "phone": "+79643480722",
+      "salary": 203700,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "8399412": {
+      "id": 8399412,
+      "group": "Teamleads",
+      "fullname": "Polina Matveeva",
+      "email": "polina_matveeva@somebox.com",
+      "phone": "+79712248052",
+      "salary": 345200,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "6652219": {
+      "id": 6652219,
+      "group": "Managers",
+      "fullname": "Evgenija Levchenko",
+      "email": "evgenija_levchenko@somebox.com",
+      "phone": "+79321091244",
+      "salary": 234200,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "5725334": {
+      "id": 5725334,
+      "group": "Managers",
+      "fullname": "Raisa Bratislavskaja",
+      "email": "raisa_bratislavskaja@somebox.com",
+      "phone": "+79507468618",
+      "salary": 79700,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "6088334": {
+      "id": 6088334,
+      "group": "CEO",
+      "fullname": "Alla Oblomova",
+      "email": "alla_oblomova@somebox.com",
+      "phone": "+79212962508",
+      "salary": 373500,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "3665301": {
+      "id": 3665301,
+      "group": "CEO",
+      "fullname": "Oleg Avdeev",
+      "email": "oleg_avdeev@somebox.com",
+      "phone": "+79773783931",
+      "salary": 278900,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "9701000": {
+      "id": 9701000,
+      "group": "Teamleads",
+      "fullname": "Timofej Ignatev",
+      "email": "timofej_ignatev@somebox.com",
+      "phone": "+79898414574",
+      "salary": 428200,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "7601421": {
+      "id": 7601421,
+      "group": "Financials",
+      "fullname": "Evgenija Koroleva",
+      "email": "evgenija_koroleva@somebox.com",
+      "phone": "+79013764610",
+      "salary": 143100,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "1048021": {
+      "id": 1048021,
+      "group": "Sales",
+      "fullname": "Viktorija Romanova",
+      "email": "viktorija_romanova@somebox.com",
+      "phone": "+79135936031",
+      "salary": 246300,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "4260781": {
+      "id": 4260781,
+      "group": "HR",
+      "fullname": "Zlata Efimova",
+      "email": "zlata_efimova@somebox.com",
+      "phone": "+79021843093",
+      "salary": 181100,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "4467984": {
+      "id": 4467984,
+      "group": "Financials",
+      "fullname": "Tamara Poljakova",
+      "email": "tamara_poljakova@somebox.com",
+      "phone": "+79634876863",
+      "salary": 366800,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "6699126": {
+      "id": 6699126,
+      "group": "Unmanaged",
+      "fullname": "Roman Muhin",
+      "email": "roman_muhin@somebox.com",
+      "phone": "+79043063894",
+      "salary": 180900,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "5204529": {
+      "id": 5204529,
+      "group": "CEO",
+      "fullname": "Svetlana Kamenskih",
+      "email": "svetlana_kamenskih@somebox.com",
+      "phone": "+79588183914",
+      "salary": 437300,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "7337688": {
+      "id": 7337688,
+      "group": "CEO",
+      "fullname": "Eva Kozhevnikova",
+      "email": "eva_kozhevnikova@somebox.com",
+      "phone": "+79922587785",
+      "salary": 424700,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "1710236": {
+      "id": 1710236,
+      "group": "Unmanaged",
+      "fullname": "Grigorij Rusakov",
+      "email": "grigorij_rusakov@somebox.com",
+      "phone": "+79291809016",
+      "salary": 51800,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "6234752": {
+      "id": 6234752,
+      "group": "CEO",
+      "fullname": "Marina Sokolova",
+      "email": "marina_sokolova@somebox.com",
+      "phone": "+79586639372",
+      "salary": 391000,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "9195935": {
+      "id": 9195935,
+      "group": "HR",
+      "fullname": "Maksim Korolev",
+      "email": "maksim_korolev@somebox.com",
+      "phone": "+79834328402",
+      "salary": 130900,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "3837368": {
+      "id": 3837368,
+      "group": "Developers",
+      "fullname": "Zinaida Simonova",
+      "email": "zinaida_simonova@somebox.com",
+      "phone": "+79627728483",
+      "salary": 256000,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "1782510": {
+      "id": 1782510,
+      "group": "CEO",
+      "fullname": "Artem Gusev",
+      "email": "artem_gusev@somebox.com",
+      "phone": "+79291009136",
+      "salary": 76400,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "8550519": {
+      "id": 8550519,
+      "group": "Unmanaged",
+      "fullname": "Ivanna Hovanskaja",
+      "email": "ivanna_hovanskaja@somebox.com",
+      "phone": "+79515933407",
+      "salary": 117800,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "6469544": {
+      "id": 6469544,
+      "group": "Financials",
+      "fullname": "Gleb Naumov",
+      "email": "gleb_naumov@somebox.com",
+      "phone": "+79167832508",
+      "salary": 458600,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "5941751": {
+      "id": 5941751,
+      "group": "Teamleads",
+      "fullname": "Nadezhda Ivleva",
+      "email": "nadezhda_ivleva@somebox.com",
+      "phone": "+79523649732",
+      "salary": 297900,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "4250318": {
+      "id": 4250318,
+      "group": "Sales",
+      "fullname": "Georgij Kopylov",
+      "email": "georgij_kopylov@somebox.com",
+      "phone": "+79968208447",
+      "salary": 75500,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "5435776": {
+      "id": 5435776,
+      "group": "Developers",
+      "fullname": "Marija Bratislavskaja",
+      "email": "marija_bratislavskaja@somebox.com",
+      "phone": "+79778126003",
+      "salary": 377900,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "3185032": {
+      "id": 3185032,
+      "group": "Unmanaged",
+      "fullname": "Igor Guschin",
+      "email": "igor_guschin@somebox.com",
+      "phone": "+79509430153",
+      "salary": 404300,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "3890293": {
+      "id": 3890293,
+      "group": "Teamleads",
+      "fullname": "Antonina Simonova",
+      "email": "antonina_simonova@somebox.com",
+      "phone": "+79065133511",
+      "salary": 86400,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "8221353": {
+      "id": 8221353,
+      "group": "Developers",
+      "fullname": "Artem Kolesnikov",
+      "email": "artem_kolesnikov@somebox.com",
+      "phone": "+79974964945",
+      "salary": 487200,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "5129148": {
+      "id": 5129148,
+      "group": "HR",
+      "fullname": "Angelina Hovanskaja",
+      "email": "angelina_hovanskaja@somebox.com",
+      "phone": "+79039337803",
+      "salary": 286600,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "2819889": {
+      "id": 2819889,
+      "group": "Financials",
+      "fullname": "Svetlana Sokolova",
+      "email": "svetlana_sokolova@somebox.com",
+      "phone": "+79196046773",
+      "salary": 153200,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "8363651": {
+      "id": 8363651,
+      "group": "Unmanaged",
+      "fullname": "Zhanna Volochkova",
+      "email": "zhanna_volochkova@somebox.com",
+      "phone": "+79262220124",
+      "salary": 60700,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "7829511": {
+      "id": 7829511,
+      "group": "Managers",
+      "fullname": "Artem Kononov",
+      "email": "artem_kononov@somebox.com",
+      "phone": "+79926954639",
+      "salary": 331000,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "8872371": {
+      "id": 8872371,
+      "group": "Developers",
+      "fullname": "Zinaida Levchenko",
+      "email": "zinaida_levchenko@somebox.com",
+      "phone": "+79339932519",
+      "salary": 104700,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "5317798": {
+      "id": 5317798,
+      "group": "CEO",
+      "fullname": "Konstantin Lebedev",
+      "email": "konstantin_lebedev@somebox.com",
+      "phone": "+79093300299",
+      "salary": 388300,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "8634701": {
+      "id": 8634701,
+      "group": "Unmanaged",
+      "fullname": "Vladimir Kovalev",
+      "email": "vladimir_kovalev@somebox.com",
+      "phone": "+79241793103",
+      "salary": 140900,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "1609504": {
+      "id": 1609504,
+      "group": "Managers",
+      "fullname": "Egor Kulakov",
+      "email": "egor_kulakov@somebox.com",
+      "phone": "+79229053406",
+      "salary": 233100,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "9015314": {
+      "id": 9015314,
+      "group": "HR",
+      "fullname": "Konstantin Zajtsev",
+      "email": "konstantin_zajtsev@somebox.com",
+      "phone": "+79832196467",
+      "salary": 456300,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "6047044": {
+      "id": 6047044,
+      "group": "Unmanaged",
+      "fullname": "Oleg Ermakov",
+      "email": "oleg_ermakov@somebox.com",
+      "phone": "+79611903403",
+      "salary": 100600,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "9453325": {
+      "id": 9453325,
+      "group": "Financials",
+      "fullname": "Timofej Birjukov",
+      "email": "timofej_birjukov@somebox.com",
+      "phone": "+79049687133",
+      "salary": 407100,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "3239242": {
+      "id": 3239242,
+      "group": "Teamleads",
+      "fullname": "Varvara Lionova",
+      "email": "varvara_lionova@somebox.com",
+      "phone": "+79264817403",
+      "salary": 379600,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "4494670": {
+      "id": 4494670,
+      "group": "Sales",
+      "fullname": "Varvara Efimova",
+      "email": "varvara_efimova@somebox.com",
+      "phone": "+79589405712",
+      "salary": 300300,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "9256790": {
+      "id": 9256790,
+      "group": "Financials",
+      "fullname": "Kira Lebedeva",
+      "email": "kira_lebedeva@somebox.com",
+      "phone": "+79536970857",
+      "salary": 109200,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "2125146": {
+      "id": 2125146,
+      "group": "Managers",
+      "fullname": "Svjatoslav Kudrjavtsev",
+      "email": "svjatoslav_kudrjavtsev@somebox.com",
+      "phone": "+79015936582",
+      "salary": 287100,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "4105869": {
+      "id": 4105869,
+      "group": "Developers",
+      "fullname": "Ksenija Efimova",
+      "email": "ksenija_efimova@somebox.com",
+      "phone": "+79272559592",
+      "salary": 488100,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "5200239": {
+      "id": 5200239,
+      "group": "Teamleads",
+      "fullname": "Vasilij Nikonov",
+      "email": "vasilij_nikonov@somebox.com",
+      "phone": "+79029438553",
+      "salary": 167400,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "4399366": {
+      "id": 4399366,
+      "group": "Financials",
+      "fullname": "Igor Kulikov",
+      "email": "igor_kulikov@somebox.com",
+      "phone": "+79933763396",
+      "salary": 463700,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "9386141": {
+      "id": 9386141,
+      "group": "Developers",
+      "fullname": "Angelina Malysheva",
+      "email": "angelina_malysheva@somebox.com",
+      "phone": "+79133131665",
+      "salary": 494900,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "8535742": {
+      "id": 8535742,
+      "group": "CEO",
+      "fullname": "Irina Aleksandrova",
+      "email": "irina_aleksandrova@somebox.com",
+      "phone": "+79118633942",
+      "salary": 382000,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "1747223": {
+      "id": 1747223,
+      "group": "CEO",
+      "fullname": "Irina Bezrukova",
+      "email": "irina_bezrukova@somebox.com",
+      "phone": "+79164184776",
+      "salary": 108100,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "7430111": {
+      "id": 7430111,
+      "group": "Teamleads",
+      "fullname": "Zhanna Tretjakova",
+      "email": "zhanna_tretjakova@somebox.com",
+      "phone": "+79064377676",
+      "salary": 90000,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "8080861": {
+      "id": 8080861,
+      "group": "CEO",
+      "fullname": "Vitalij Filippov",
+      "email": "vitalij_filippov@somebox.com",
+      "phone": "+79826548900",
+      "salary": 416700,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "8213050": {
+      "id": 8213050,
+      "group": "Sales",
+      "fullname": "Sergej Safonov",
+      "email": "sergej_safonov@somebox.com",
+      "phone": "+79665115177",
+      "salary": 165700,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "3903883": {
+      "id": 3903883,
+      "group": "Financials",
+      "fullname": "Anna Levchenko",
+      "email": "anna_levchenko@somebox.com",
+      "phone": "+79889033439",
+      "salary": 320700,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "2040960": {
+      "id": 2040960,
+      "group": "Managers",
+      "fullname": "Bogdan Blohin",
+      "email": "bogdan_blohin@somebox.com",
+      "phone": "+79268394294",
+      "salary": 436800,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "9950088": {
+      "id": 9950088,
+      "group": "CEO",
+      "fullname": "Vera Lebedeva",
+      "email": "vera_lebedeva@somebox.com",
+      "phone": "+79134936199",
+      "salary": 392800,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "2634582": {
+      "id": 2634582,
+      "group": "Teamleads",
+      "fullname": "Zoja Levchenko",
+      "email": "zoja_levchenko@somebox.com",
+      "phone": "+79092642264",
+      "salary": 303600,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "2052870": {
+      "id": 2052870,
+      "group": "HR",
+      "fullname": "Sofija Tarasova",
+      "email": "sofija_tarasova@somebox.com",
+      "phone": "+79183959101",
+      "salary": 193300,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "4001610": {
+      "id": 4001610,
+      "group": "Developers",
+      "fullname": "Viktorija Levchenko",
+      "email": "viktorija_levchenko@somebox.com",
+      "phone": "+79092657036",
+      "salary": 355800,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "2323143": {
+      "id": 2323143,
+      "group": "Developers",
+      "fullname": "Margarita Novitskaja",
+      "email": "margarita_novitskaja@somebox.com",
+      "phone": "+79029751197",
+      "salary": 488200,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "4728663": {
+      "id": 4728663,
+      "group": "Sales",
+      "fullname": "Elena Denisova",
+      "email": "elena_denisova@somebox.com",
+      "phone": "+79679201426",
+      "salary": 56700,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "8023553": {
+      "id": 8023553,
+      "group": "Sales",
+      "fullname": "Konstantin Potapov",
+      "email": "konstantin_potapov@somebox.com",
+      "phone": "+79778224046",
+      "salary": 328800,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "5294326": {
+      "id": 5294326,
+      "group": "Developers",
+      "fullname": "Vladislav Efremov",
+      "email": "vladislav_efremov@somebox.com",
+      "phone": "+79394858704",
+      "salary": 215500,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "5250168": {
+      "id": 5250168,
+      "group": "Unmanaged",
+      "fullname": "Nina Levchenko",
+      "email": "nina_levchenko@somebox.com",
+      "phone": "+79604277406",
+      "salary": 241900,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "3392555": {
+      "id": 3392555,
+      "group": "CEO",
+      "fullname": "Vasilij Kolesnikov",
+      "email": "vasilij_kolesnikov@somebox.com",
+      "phone": "+79834075085",
+      "salary": 436000,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "5567199": {
+      "id": 5567199,
+      "group": "HR",
+      "fullname": "Nadezhda Lenskaja",
+      "email": "nadezhda_lenskaja@somebox.com",
+      "phone": "+79178101582",
+      "salary": 383200,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "4871491": {
+      "id": 4871491,
+      "group": "Financials",
+      "fullname": "Jurij Savelev",
+      "email": "jurij_savelev@somebox.com",
+      "phone": "+79395900708",
+      "salary": 296200,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "5435284": {
+      "id": 5435284,
+      "group": "Developers",
+      "fullname": "Evgenij Blohin",
+      "email": "evgenij_blohin@somebox.com",
+      "phone": "+79325002052",
+      "salary": 256500,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "1703509": {
+      "id": 1703509,
+      "group": "Managers",
+      "fullname": "Svetlana Malysheva",
+      "email": "svetlana_malysheva@somebox.com",
+      "phone": "+79665397867",
+      "salary": 330000,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "9711548": {
+      "id": 9711548,
+      "group": "Financials",
+      "fullname": "Vadim Voronov",
+      "email": "vadim_voronov@somebox.com",
+      "phone": "+79584692947",
+      "salary": 484900,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "5561916": {
+      "id": 5561916,
+      "group": "Teamleads",
+      "fullname": "Ljudmila Kotova",
+      "email": "ljudmila_kotova@somebox.com",
+      "phone": "+79787068408",
+      "salary": 131200,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "9840368": {
+      "id": 9840368,
+      "group": "Sales",
+      "fullname": "Viktor Samojlov",
+      "email": "viktor_samojlov@somebox.com",
+      "phone": "+79899675166",
+      "salary": 442200,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "8583467": {
+      "id": 8583467,
+      "group": "Sales",
+      "fullname": "Arina Novitskaja",
+      "email": "arina_novitskaja@somebox.com",
+      "phone": "+79774198075",
+      "salary": 343500,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "5500542": {
+      "id": 5500542,
+      "group": "Developers",
+      "fullname": "Georgij Suvorov",
+      "email": "georgij_suvorov@somebox.com",
+      "phone": "+79222646219",
+      "salary": 315400,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "3382624": {
+      "id": 3382624,
+      "group": "Financials",
+      "fullname": "Vitalij Fedorov",
+      "email": "vitalij_fedorov@somebox.com",
+      "phone": "+79331035764",
+      "salary": 117900,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "5296454": {
+      "id": 5296454,
+      "group": "Financials",
+      "fullname": "Alina Kozhevnikova",
+      "email": "alina_kozhevnikova@somebox.com",
+      "phone": "+79692120204",
+      "salary": 282500,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "5767455": {
+      "id": 5767455,
+      "group": "Managers",
+      "fullname": "Makar Kirillov",
+      "email": "makar_kirillov@somebox.com",
+      "phone": "+79134494351",
+      "salary": 373100,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "8722448": {
+      "id": 8722448,
+      "group": "Developers",
+      "fullname": "Georgij Nikolaev",
+      "email": "georgij_nikolaev@somebox.com",
+      "phone": "+79534876794",
+      "salary": 225800,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "7696161": {
+      "id": 7696161,
+      "group": "Sales",
+      "fullname": "Angelina Volkova",
+      "email": "angelina_volkova@somebox.com",
+      "phone": "+79657469088",
+      "salary": 67000,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "9920738": {
+      "id": 9920738,
+      "group": "CEO",
+      "fullname": "Evgenij Loginov",
+      "email": "evgenij_loginov@somebox.com",
+      "phone": "+79888870841",
+      "salary": 71700,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "1416795": {
+      "id": 1416795,
+      "group": "Sales",
+      "fullname": "Olga Efimova",
+      "email": "olga_efimova@somebox.com",
+      "phone": "+79012105014",
+      "salary": 411600,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "8048211": {
+      "id": 8048211,
+      "group": "Managers",
+      "fullname": "Antonina Istomina",
+      "email": "antonina_istomina@somebox.com",
+      "phone": "+79178310145",
+      "salary": 440400,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "8549510": {
+      "id": 8549510,
+      "group": "Financials",
+      "fullname": "Alena Lionova",
+      "email": "alena_lionova@somebox.com",
+      "phone": "+79177232933",
+      "salary": 380900,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "2987689": {
+      "id": 2987689,
+      "group": "HR",
+      "fullname": "Ljubov Lenskaja",
+      "email": "ljubov_lenskaja@somebox.com",
+      "phone": "+79113494365",
+      "salary": 107400,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "9355615": {
+      "id": 9355615,
+      "group": "CEO",
+      "fullname": "Roman Panov",
+      "email": "roman_panov@somebox.com",
+      "phone": "+79882835598",
+      "salary": 406400,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "8048660": {
+      "id": 8048660,
+      "group": "CEO",
+      "fullname": "Alina Bezrukova",
+      "email": "alina_bezrukova@somebox.com",
+      "phone": "+79349072588",
+      "salary": 255300,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "6656156": {
+      "id": 6656156,
+      "group": "Financials",
+      "fullname": "Matvej Rybakov",
+      "email": "matvej_rybakov@somebox.com",
+      "phone": "+79977615892",
+      "salary": 375700,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "2865070": {
+      "id": 2865070,
+      "group": "Developers",
+      "fullname": "Vjacheslav Osipov",
+      "email": "vjacheslav_osipov@somebox.com",
+      "phone": "+79551758775",
+      "salary": 141600,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "4951684": {
+      "id": 4951684,
+      "group": "CEO",
+      "fullname": "Evgenija Rodochinskaja",
+      "email": "evgenija_rodochinskaja@somebox.com",
+      "phone": "+79156246810",
+      "salary": 333700,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "2301571": {
+      "id": 2301571,
+      "group": "Developers",
+      "fullname": "Elena Malysheva",
+      "email": "elena_malysheva@somebox.com",
+      "phone": "+79829380610",
+      "salary": 325100,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "1565745": {
+      "id": 1565745,
+      "group": "Developers",
+      "fullname": "Zinaida Aleksandrova",
+      "email": "zinaida_aleksandrova@somebox.com",
+      "phone": "+79103333098",
+      "salary": 117200,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "4743583": {
+      "id": 4743583,
+      "group": "CEO",
+      "fullname": "Valentina Levchenko",
+      "email": "valentina_levchenko@somebox.com",
+      "phone": "+79031798685",
+      "salary": 229600,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "6027035": {
+      "id": 6027035,
+      "group": "HR",
+      "fullname": "Igor Komarov",
+      "email": "igor_komarov@somebox.com",
+      "phone": "+79085698840",
+      "salary": 140800,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "7660932": {
+      "id": 7660932,
+      "group": "Sales",
+      "fullname": "Julija Tarasova",
+      "email": "julija_tarasova@somebox.com",
+      "phone": "+79122874283",
+      "salary": 81800,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "2473526": {
+      "id": 2473526,
+      "group": "HR",
+      "fullname": "Petr Antonov",
+      "email": "petr_antonov@somebox.com",
+      "phone": "+79429795128",
+      "salary": 142600,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "2511961": {
+      "id": 2511961,
+      "group": "Unmanaged",
+      "fullname": "Vladislav Kostin",
+      "email": "vladislav_kostin@somebox.com",
+      "phone": "+79993355506",
+      "salary": 490500,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "8010322": {
+      "id": 8010322,
+      "group": "Managers",
+      "fullname": "Viktorija Volochkova",
+      "email": "viktorija_volochkova@somebox.com",
+      "phone": "+79637862240",
+      "salary": 301400,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "1011545": {
+      "id": 1011545,
+      "group": "Sales",
+      "fullname": "Timofej Ustinov",
+      "email": "timofej_ustinov@somebox.com",
+      "phone": "+79925953213",
+      "salary": 147300,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "1176606": {
+      "id": 1176606,
+      "group": "Sales",
+      "fullname": "Olga Tretjakova",
+      "email": "olga_tretjakova@somebox.com",
+      "phone": "+79084523722",
+      "salary": 291500,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "3792360": {
+      "id": 3792360,
+      "group": "Unmanaged",
+      "fullname": "Kirill Fedotov",
+      "email": "kirill_fedotov@somebox.com",
+      "phone": "+79514454246",
+      "salary": 440000,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "6631300": {
+      "id": 6631300,
+      "group": "CEO",
+      "fullname": "Jurij Gorbunov",
+      "email": "jurij_gorbunov@somebox.com",
+      "phone": "+79089815470",
+      "salary": 198200,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "1673241": {
+      "id": 1673241,
+      "group": "Sales",
+      "fullname": "Evgenij Korolev",
+      "email": "evgenij_korolev@somebox.com",
+      "phone": "+79521833829",
+      "salary": 379100,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "8231593": {
+      "id": 8231593,
+      "group": "Sales",
+      "fullname": "Svjatoslav Solovev",
+      "email": "svjatoslav_solovev@somebox.com",
+      "phone": "+79109043325",
+      "salary": 253700,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "4819443": {
+      "id": 4819443,
+      "group": "Teamleads",
+      "fullname": "Natalja Volochkova",
+      "email": "natalja_volochkova@somebox.com",
+      "phone": "+79369920035",
+      "salary": 352800,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "7667982": {
+      "id": 7667982,
+      "group": "Unmanaged",
+      "fullname": "Polina Bratislavskaja",
+      "email": "polina_bratislavskaja@somebox.com",
+      "phone": "+79582312058",
+      "salary": 82300,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "3293640": {
+      "id": 3293640,
+      "group": "Unmanaged",
+      "fullname": "Margarita Tarasova",
+      "email": "margarita_tarasova@somebox.com",
+      "phone": "+79261497744",
+      "salary": 431000,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "1190798": {
+      "id": 1190798,
+      "group": "Developers",
+      "fullname": "Ilja Zuev",
+      "email": "ilja_zuev@somebox.com",
+      "phone": "+79703124410",
+      "salary": 125600,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "9794972": {
+      "id": 9794972,
+      "group": "Managers",
+      "fullname": "Valerija Lenskaja",
+      "email": "valerija_lenskaja@somebox.com",
+      "phone": "+79336037567",
+      "salary": 311300,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "7057436": {
+      "id": 7057436,
+      "group": "Sales",
+      "fullname": "Nina Andreeva",
+      "email": "nina_andreeva@somebox.com",
+      "phone": "+79779708975",
+      "salary": 477000,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "7531650": {
+      "id": 7531650,
+      "group": "Developers",
+      "fullname": "Fedor Loginov",
+      "email": "fedor_loginov@somebox.com",
+      "phone": "+79305788859",
+      "salary": 59000,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "1290002": {
+      "id": 1290002,
+      "group": "Managers",
+      "fullname": "Fedor Grishin",
+      "email": "fedor_grishin@somebox.com",
+      "phone": "+79134485001",
+      "salary": 361500,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "9539026": {
+      "id": 9539026,
+      "group": "CEO",
+      "fullname": "Ivanna Kamenskih",
+      "email": "ivanna_kamenskih@somebox.com",
+      "phone": "+79221838111",
+      "salary": 379600,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "8969794": {
+      "id": 8969794,
+      "group": "Unmanaged",
+      "fullname": "Dmitrij Seleznev",
+      "email": "dmitrij_seleznev@somebox.com",
+      "phone": "+79642355294",
+      "salary": 448900,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "8301138": {
+      "id": 8301138,
+      "group": "CEO",
+      "fullname": "Ljubov Malysheva",
+      "email": "ljubov_malysheva@somebox.com",
+      "phone": "+79394557392",
+      "salary": 174500,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "8409994": {
+      "id": 8409994,
+      "group": "Unmanaged",
+      "fullname": "Eva Kozhevnikova",
+      "email": "eva_kozhevnikova@somebox.com",
+      "phone": "+79657748107",
+      "salary": 110200,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "2352436": {
+      "id": 2352436,
+      "group": "Unmanaged",
+      "fullname": "Semen Kuzmin",
+      "email": "semen_kuzmin@somebox.com",
+      "phone": "+79314796680",
+      "salary": 54900,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "2272915": {
+      "id": 2272915,
+      "group": "Teamleads",
+      "fullname": "Leonid Maslov",
+      "email": "leonid_maslov@somebox.com",
+      "phone": "+79296022275",
+      "salary": 155300,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "8764759": {
+      "id": 8764759,
+      "group": "Developers",
+      "fullname": "Julija Volochkova",
+      "email": "julija_volochkova@somebox.com",
+      "phone": "+79622985462",
+      "salary": 438100,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "3433400": {
+      "id": 3433400,
+      "group": "HR",
+      "fullname": "Valerija Novikova",
+      "email": "valerija_novikova@somebox.com",
+      "phone": "+79139791388",
+      "salary": 430300,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "1574152": {
+      "id": 1574152,
+      "group": "Teamleads",
+      "fullname": "Nina Nazarova",
+      "email": "nina_nazarova@somebox.com",
+      "phone": "+79111545332",
+      "salary": 141100,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "3971446": {
+      "id": 3971446,
+      "group": "Teamleads",
+      "fullname": "Bogdan Shashkov",
+      "email": "bogdan_shashkov@somebox.com",
+      "phone": "+79056535279",
+      "salary": 122800,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "5567389": {
+      "id": 5567389,
+      "group": "Developers",
+      "fullname": "Marina Aleksandrova",
+      "email": "marina_aleksandrova@somebox.com",
+      "phone": "+79994429352",
+      "salary": 381000,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "6317130": {
+      "id": 6317130,
+      "group": "HR",
+      "fullname": "Ija Tarasova",
+      "email": "ija_tarasova@somebox.com",
+      "phone": "+79875423084",
+      "salary": 198300,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "7873362": {
+      "id": 7873362,
+      "group": "Financials",
+      "fullname": "Evgenij Kolesnikov",
+      "email": "evgenij_kolesnikov@somebox.com",
+      "phone": "+79161246903",
+      "salary": 408200,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "5282695": {
+      "id": 5282695,
+      "group": "Unmanaged",
+      "fullname": "Evgenija Panchenko",
+      "email": "evgenija_panchenko@somebox.com",
+      "phone": "+79191480843",
+      "salary": 463200,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "8032293": {
+      "id": 8032293,
+      "group": "Sales",
+      "fullname": "Gleb Belozerov",
+      "email": "gleb_belozerov@somebox.com",
+      "phone": "+79644364598",
+      "salary": 411700,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "8588698": {
+      "id": 8588698,
+      "group": "Sales",
+      "fullname": "Zoja Kamenskih",
+      "email": "zoja_kamenskih@somebox.com",
+      "phone": "+79509708752",
+      "salary": 486100,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "3601936": {
+      "id": 3601936,
+      "group": "CEO",
+      "fullname": "Olga Kovalevskaja",
+      "email": "olga_kovalevskaja@somebox.com",
+      "phone": "+79862785506",
+      "salary": 323100,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "9196850": {
+      "id": 9196850,
+      "group": "Managers",
+      "fullname": "Angelina Kotova",
+      "email": "angelina_kotova@somebox.com",
+      "phone": "+79905214607",
+      "salary": 220600,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "5302300": {
+      "id": 5302300,
+      "group": "HR",
+      "fullname": "Gennadij Nikolaev",
+      "email": "gennadij_nikolaev@somebox.com",
+      "phone": "+79564771184",
+      "salary": 410200,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "5323813": {
+      "id": 5323813,
+      "group": "Financials",
+      "fullname": "Grigorij Bobrov",
+      "email": "grigorij_bobrov@somebox.com",
+      "phone": "+79238750030",
+      "salary": 438600,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "1791468": {
+      "id": 1791468,
+      "group": "Unmanaged",
+      "fullname": "Maksim Vorontsov",
+      "email": "maksim_vorontsov@somebox.com",
+      "phone": "+79156261421",
+      "salary": 283400,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "3201588": {
+      "id": 3201588,
+      "group": "HR",
+      "fullname": "Kristina Lenskaja",
+      "email": "kristina_lenskaja@somebox.com",
+      "phone": "+79788126086",
+      "salary": 212000,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "1746590": {
+      "id": 1746590,
+      "group": "Managers",
+      "fullname": "Nikita Silin",
+      "email": "nikita_silin@somebox.com",
+      "phone": "+79961201334",
+      "salary": 497600,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "5612109": {
+      "id": 5612109,
+      "group": "Developers",
+      "fullname": "Ljudmila Bezrukova",
+      "email": "ljudmila_bezrukova@somebox.com",
+      "phone": "+79819225541",
+      "salary": 79100,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "6088178": {
+      "id": 6088178,
+      "group": "Teamleads",
+      "fullname": "Oleg Komissarov",
+      "email": "oleg_komissarov@somebox.com",
+      "phone": "+79949545201",
+      "salary": 159200,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "7398065": {
+      "id": 7398065,
+      "group": "Developers",
+      "fullname": "Raisa Kovalevskaja",
+      "email": "raisa_kovalevskaja@somebox.com",
+      "phone": "+79568740520",
+      "salary": 187500,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "4997890": {
+      "id": 4997890,
+      "group": "Managers",
+      "fullname": "Ljubov Istomina",
+      "email": "ljubov_istomina@somebox.com",
+      "phone": "+79159964323",
+      "salary": 274800,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "7140393": {
+      "id": 7140393,
+      "group": "Financials",
+      "fullname": "Zhanna Tolmacheva",
+      "email": "zhanna_tolmacheva@somebox.com",
+      "phone": "+79151092319",
+      "salary": 79800,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "6783533": {
+      "id": 6783533,
+      "group": "Developers",
+      "fullname": "Matvej Andreev",
+      "email": "matvej_andreev@somebox.com",
+      "phone": "+79814575473",
+      "salary": 432700,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "4121869": {
+      "id": 4121869,
+      "group": "Financials",
+      "fullname": "Ljubov Andreeva",
+      "email": "ljubov_andreeva@somebox.com",
+      "phone": "+79616171841",
+      "salary": 445400,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "4039854": {
+      "id": 4039854,
+      "group": "Teamleads",
+      "fullname": "Matvej Gromov",
+      "email": "matvej_gromov@somebox.com",
+      "phone": "+79329061542",
+      "salary": 107900,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "1375331": {
+      "id": 1375331,
+      "group": "Unmanaged",
+      "fullname": "Ljubov Lenskaja",
+      "email": "ljubov_lenskaja@somebox.com",
+      "phone": "+79587481594",
+      "salary": 426500,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "2131986": {
+      "id": 2131986,
+      "group": "HR",
+      "fullname": "Petr Seliverstov",
+      "email": "petr_seliverstov@somebox.com",
+      "phone": "+79609355750",
+      "salary": 160700,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "5260748": {
+      "id": 5260748,
+      "group": "CEO",
+      "fullname": "Oleg Romanov",
+      "email": "oleg_romanov@somebox.com",
+      "phone": "+79958580815",
+      "salary": 264100,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "1617733": {
+      "id": 1617733,
+      "group": "Developers",
+      "fullname": "Jurij Jakovlev",
+      "email": "jurij_jakovlev@somebox.com",
+      "phone": "+79429276572",
+      "salary": 97800,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "1179058": {
+      "id": 1179058,
+      "group": "Financials",
+      "fullname": "Varvara Sokolova",
+      "email": "varvara_sokolova@somebox.com",
+      "phone": "+79996005444",
+      "salary": 227400,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "9758717": {
+      "id": 9758717,
+      "group": "Sales",
+      "fullname": "Ivanna Volochkova",
+      "email": "ivanna_volochkova@somebox.com",
+      "phone": "+79296335347",
+      "salary": 88600,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "3020095": {
+      "id": 3020095,
+      "group": "Financials",
+      "fullname": "Stanislav Efimov",
+      "email": "stanislav_efimov@somebox.com",
+      "phone": "+79616821988",
+      "salary": 73600,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "6667153": {
+      "id": 6667153,
+      "group": "Managers",
+      "fullname": "Ivanna Rodochinskaja",
+      "email": "ivanna_rodochinskaja@somebox.com",
+      "phone": "+79536319510",
+      "salary": 431700,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "9556467": {
+      "id": 9556467,
+      "group": "Financials",
+      "fullname": "Nina Koroleva",
+      "email": "nina_koroleva@somebox.com",
+      "phone": "+79569783146",
+      "salary": 369500,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "1957151": {
+      "id": 1957151,
+      "group": "Unmanaged",
+      "fullname": "Zhanna Matveeva",
+      "email": "zhanna_matveeva@somebox.com",
+      "phone": "+79512225459",
+      "salary": 229200,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "7831111": {
+      "id": 7831111,
+      "group": "Teamleads",
+      "fullname": "Makar Agafonov",
+      "email": "makar_agafonov@somebox.com",
+      "phone": "+79191267352",
+      "salary": 345100,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "1439023": {
+      "id": 1439023,
+      "group": "Sales",
+      "fullname": "Fedor Kulakov",
+      "email": "fedor_kulakov@somebox.com",
+      "phone": "+79604463775",
+      "salary": 256800,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "6011203": {
+      "id": 6011203,
+      "group": "Developers",
+      "fullname": "Eva Denisova",
+      "email": "eva_denisova@somebox.com",
+      "phone": "+79691177475",
+      "salary": 200500,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "7328010": {
+      "id": 7328010,
+      "group": "Unmanaged",
+      "fullname": "Valerij Tretjakov",
+      "email": "valerij_tretjakov@somebox.com",
+      "phone": "+79956670395",
+      "salary": 280400,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "4603389": {
+      "id": 4603389,
+      "group": "Teamleads",
+      "fullname": "Vasilij Guschin",
+      "email": "vasilij_guschin@somebox.com",
+      "phone": "+79098655601",
+      "salary": 151900,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "6346941": {
+      "id": 6346941,
+      "group": "Unmanaged",
+      "fullname": "Sergej Kozlov",
+      "email": "sergej_kozlov@somebox.com",
+      "phone": "+79673110011",
+      "salary": 388500,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "8283614": {
+      "id": 8283614,
+      "group": "Developers",
+      "fullname": "Vadim Samsonov",
+      "email": "vadim_samsonov@somebox.com",
+      "phone": "+79582944822",
+      "salary": 61800,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "5354813": {
+      "id": 5354813,
+      "group": "Financials",
+      "fullname": "Taisija Bezrukova",
+      "email": "taisija_bezrukova@somebox.com",
+      "phone": "+79674246244",
+      "salary": 497100,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "8739709": {
+      "id": 8739709,
+      "group": "Developers",
+      "fullname": "Dmitrij Kolobov",
+      "email": "dmitrij_kolobov@somebox.com",
+      "phone": "+79512865464",
+      "salary": 134300,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "4300998": {
+      "id": 4300998,
+      "group": "Developers",
+      "fullname": "Boris Lytkin",
+      "email": "boris_lytkin@somebox.com",
+      "phone": "+79832379239",
+      "salary": 105900,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "7496369": {
+      "id": 7496369,
+      "group": "Developers",
+      "fullname": "Gennadij Tsvetkov",
+      "email": "gennadij_tsvetkov@somebox.com",
+      "phone": "+79531811679",
+      "salary": 393000,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "7142094": {
+      "id": 7142094,
+      "group": "Sales",
+      "fullname": "Zlata Panchenko",
+      "email": "zlata_panchenko@somebox.com",
+      "phone": "+79916812114",
+      "salary": 176000,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "8436766": {
+      "id": 8436766,
+      "group": "CEO",
+      "fullname": "Ivan Gurev",
+      "email": "ivan_gurev@somebox.com",
+      "phone": "+79778787155",
+      "salary": 262200,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "4396937": {
+      "id": 4396937,
+      "group": "Developers",
+      "fullname": "Sofija Volochkova",
+      "email": "sofija_volochkova@somebox.com",
+      "phone": "+79625818723",
+      "salary": 349400,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "6347192": {
+      "id": 6347192,
+      "group": "Unmanaged",
+      "fullname": "Elizaveta Istomina",
+      "email": "elizaveta_istomina@somebox.com",
+      "phone": "+79329882300",
+      "salary": 405600,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "7166000": {
+      "id": 7166000,
+      "group": "Managers",
+      "fullname": "Vasilij Makarov",
+      "email": "vasilij_makarov@somebox.com",
+      "phone": "+79587262307",
+      "salary": 218700,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "5815893": {
+      "id": 5815893,
+      "group": "Teamleads",
+      "fullname": "Egor Samsonov",
+      "email": "egor_samsonov@somebox.com",
+      "phone": "+79928264911",
+      "salary": 172500,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "6096452": {
+      "id": 6096452,
+      "group": "Sales",
+      "fullname": "Ija Nazarova",
+      "email": "ija_nazarova@somebox.com",
+      "phone": "+79323731507",
+      "salary": 463700,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "1628327": {
+      "id": 1628327,
+      "group": "Teamleads",
+      "fullname": "Nikolaj Orlov",
+      "email": "nikolaj_orlov@somebox.com",
+      "phone": "+79915255756",
+      "salary": 375400,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "3155234": {
+      "id": 3155234,
+      "group": "Managers",
+      "fullname": "Ruslan Sokolov",
+      "email": "ruslan_sokolov@somebox.com",
+      "phone": "+79558489776",
+      "salary": 462600,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "9227150": {
+      "id": 9227150,
+      "group": "Developers",
+      "fullname": "Raisa Levchenko",
+      "email": "raisa_levchenko@somebox.com",
+      "phone": "+79948379476",
+      "salary": 338000,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "6091749": {
+      "id": 6091749,
+      "group": "Unmanaged",
+      "fullname": "Polina Bratislavskaja",
+      "email": "polina_bratislavskaja@somebox.com",
+      "phone": "+79207217705",
+      "salary": 78900,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "3022342": {
+      "id": 3022342,
+      "group": "Unmanaged",
+      "fullname": "Lidija Aleksandrova",
+      "email": "lidija_aleksandrova@somebox.com",
+      "phone": "+79788146147",
+      "salary": 198300,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "5849804": {
+      "id": 5849804,
+      "group": "Managers",
+      "fullname": "Valentin Bespalov",
+      "email": "valentin_bespalov@somebox.com",
+      "phone": "+79797185975",
+      "salary": 60600,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "8911331": {
+      "id": 8911331,
+      "group": "Unmanaged",
+      "fullname": "Vitalij Kudrjavtsev",
+      "email": "vitalij_kudrjavtsev@somebox.com",
+      "phone": "+79155350052",
+      "salary": 425500,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "8328833": {
+      "id": 8328833,
+      "group": "Financials",
+      "fullname": "Evgenij Lihachev",
+      "email": "evgenij_lihachev@somebox.com",
+      "phone": "+79266083286",
+      "salary": 269300,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "3586833": {
+      "id": 3586833,
+      "group": "Teamleads",
+      "fullname": "Zinaida Uljanova",
+      "email": "zinaida_uljanova@somebox.com",
+      "phone": "+79875239582",
+      "salary": 285800,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "5458685": {
+      "id": 5458685,
+      "group": "Managers",
+      "fullname": "Darja Kotova",
+      "email": "darja_kotova@somebox.com",
+      "phone": "+79882155866",
+      "salary": 354300,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "5433241": {
+      "id": 5433241,
+      "group": "Developers",
+      "fullname": "Gennadij Seliverstov",
+      "email": "gennadij_seliverstov@somebox.com",
+      "phone": "+79155915450",
+      "salary": 182400,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "9899053": {
+      "id": 9899053,
+      "group": "Financials",
+      "fullname": "Zinaida Tarasova",
+      "email": "zinaida_tarasova@somebox.com",
+      "phone": "+79103714740",
+      "salary": 351100,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "5390059": {
+      "id": 5390059,
+      "group": "Developers",
+      "fullname": "Jurij Merkushev",
+      "email": "jurij_merkushev@somebox.com",
+      "phone": "+79011224134",
+      "salary": 378800,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "6686744": {
+      "id": 6686744,
+      "group": "Financials",
+      "fullname": "Taisija Matveeva",
+      "email": "taisija_matveeva@somebox.com",
+      "phone": "+79697071163",
+      "salary": 459200,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "6153205": {
+      "id": 6153205,
+      "group": "Sales",
+      "fullname": "Olga Shevchenko",
+      "email": "olga_shevchenko@somebox.com",
+      "phone": "+79672289263",
+      "salary": 120100,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "4421025": {
+      "id": 4421025,
+      "group": "Unmanaged",
+      "fullname": "Tatjana Koroleva",
+      "email": "tatjana_koroleva@somebox.com",
+      "phone": "+79124193951",
+      "salary": 430400,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "4925815": {
+      "id": 4925815,
+      "group": "Teamleads",
+      "fullname": "Polina Sokolova",
+      "email": "polina_sokolova@somebox.com",
+      "phone": "+79662053007",
+      "salary": 323400,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "2834861": {
+      "id": 2834861,
+      "group": "CEO",
+      "fullname": "Alena Bondarenko",
+      "email": "alena_bondarenko@somebox.com",
+      "phone": "+79041099036",
+      "salary": 156400,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "3773152": {
+      "id": 3773152,
+      "group": "Managers",
+      "fullname": "Valerija Matveeva",
+      "email": "valerija_matveeva@somebox.com",
+      "phone": "+79361137244",
+      "salary": 54100,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "6136334": {
+      "id": 6136334,
+      "group": "Unmanaged",
+      "fullname": "Vladimir Tsvetkov",
+      "email": "vladimir_tsvetkov@somebox.com",
+      "phone": "+79246561726",
+      "salary": 368300,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "5358030": {
+      "id": 5358030,
+      "group": "Financials",
+      "fullname": "Oleg Sokolov",
+      "email": "oleg_sokolov@somebox.com",
+      "phone": "+79603594490",
+      "salary": 52700,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "2753228": {
+      "id": 2753228,
+      "group": "HR",
+      "fullname": "Egor Petuhov",
+      "email": "egor_petuhov@somebox.com",
+      "phone": "+79774925218",
+      "salary": 327200,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "8178780": {
+      "id": 8178780,
+      "group": "Unmanaged",
+      "fullname": "Tamara Matveeva",
+      "email": "tamara_matveeva@somebox.com",
+      "phone": "+79148655563",
+      "salary": 406100,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "3021237": {
+      "id": 3021237,
+      "group": "Unmanaged",
+      "fullname": "Jurij Kotov",
+      "email": "jurij_kotov@somebox.com",
+      "phone": "+79922346043",
+      "salary": 208800,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "7265506": {
+      "id": 7265506,
+      "group": "Unmanaged",
+      "fullname": "Elena Kozhevnikova",
+      "email": "elena_kozhevnikova@somebox.com",
+      "phone": "+79389035995",
+      "salary": 344500,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "4432724": {
+      "id": 4432724,
+      "group": "Financials",
+      "fullname": "Ruslan Andreev",
+      "email": "ruslan_andreev@somebox.com",
+      "phone": "+79148196085",
+      "salary": 397900,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "1870501": {
+      "id": 1870501,
+      "group": "Teamleads",
+      "fullname": "Milana Malysheva",
+      "email": "milana_malysheva@somebox.com",
+      "phone": "+79219482923",
+      "salary": 180700,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "9986302": {
+      "id": 9986302,
+      "group": "Unmanaged",
+      "fullname": "Egor Belozerov",
+      "email": "egor_belozerov@somebox.com",
+      "phone": "+79265698535",
+      "salary": 313400,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "1382056": {
+      "id": 1382056,
+      "group": "Teamleads",
+      "fullname": "Jaroslav Korolev",
+      "email": "jaroslav_korolev@somebox.com",
+      "phone": "+79365436291",
+      "salary": 121400,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "2468002": {
+      "id": 2468002,
+      "group": "CEO",
+      "fullname": "Matvej Nikitin",
+      "email": "matvej_nikitin@somebox.com",
+      "phone": "+79693498327",
+      "salary": 119300,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "3060674": {
+      "id": 3060674,
+      "group": "Teamleads",
+      "fullname": "Grigorij Orehov",
+      "email": "grigorij_orehov@somebox.com",
+      "phone": "+79636861679",
+      "salary": 348900,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "4282240": {
+      "id": 4282240,
+      "group": "Financials",
+      "fullname": "Denis Grishin",
+      "email": "denis_grishin@somebox.com",
+      "phone": "+79977173193",
+      "salary": 286900,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "2108424": {
+      "id": 2108424,
+      "group": "Developers",
+      "fullname": "Matvej Bobrov",
+      "email": "matvej_bobrov@somebox.com",
+      "phone": "+79252426712",
+      "salary": 272800,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "4347627": {
+      "id": 4347627,
+      "group": "Developers",
+      "fullname": "Mark Komarov",
+      "email": "mark_komarov@somebox.com",
+      "phone": "+79814310624",
+      "salary": 184200,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "5617270": {
+      "id": 5617270,
+      "group": "HR",
+      "fullname": "Bogdan Efremov",
+      "email": "bogdan_efremov@somebox.com",
+      "phone": "+79892493061",
+      "salary": 497800,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "5390171": {
+      "id": 5390171,
+      "group": "Developers",
+      "fullname": "Dmitrij Agafonov",
+      "email": "dmitrij_agafonov@somebox.com",
+      "phone": "+79704649766",
+      "salary": 145500,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "1644362": {
+      "id": 1644362,
+      "group": "Teamleads",
+      "fullname": "Zhanna Kovalevskaja",
+      "email": "zhanna_kovalevskaja@somebox.com",
+      "phone": "+79977018005",
+      "salary": 117100,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "8968256": {
+      "id": 8968256,
+      "group": "Developers",
+      "fullname": "Igor Markov",
+      "email": "igor_markov@somebox.com",
+      "phone": "+79515301945",
+      "salary": 302000,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "9500204": {
+      "id": 9500204,
+      "group": "Unmanaged",
+      "fullname": "Zinaida Malysheva",
+      "email": "zinaida_malysheva@somebox.com",
+      "phone": "+79873685366",
+      "salary": 388600,
+      "city": "Perm",
+      "image_url": ""
+    },
+    "9127093": {
+      "id": 9127093,
+      "group": "Managers",
+      "fullname": "Viktor Baranov",
+      "email": "viktor_baranov@somebox.com",
+      "phone": "+79953407112",
+      "salary": 194100,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "8342114": {
+      "id": 8342114,
+      "group": "Unmanaged",
+      "fullname": "Vasilisa Simonova",
+      "email": "vasilisa_simonova@somebox.com",
+      "phone": "+79946752794",
+      "salary": 66800,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "7191174": {
+      "id": 7191174,
+      "group": "Teamleads",
+      "fullname": "Valentin Borisov",
+      "email": "valentin_borisov@somebox.com",
+      "phone": "+79993064730",
+      "salary": 426900,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "5282865": {
+      "id": 5282865,
+      "group": "Sales",
+      "fullname": "Vladimir Haritonov",
+      "email": "vladimir_haritonov@somebox.com",
+      "phone": "+79308058761",
+      "salary": 91400,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "5496970": {
+      "id": 5496970,
+      "group": "Managers",
+      "fullname": "Zoja Sokolova",
+      "email": "zoja_sokolova@somebox.com",
+      "phone": "+79389039537",
+      "salary": 114000,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "3330625": {
+      "id": 3330625,
+      "group": "Sales",
+      "fullname": "Zinaida Novikova",
+      "email": "zinaida_novikova@somebox.com",
+      "phone": "+79657167472",
+      "salary": 327400,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "6041076": {
+      "id": 6041076,
+      "group": "CEO",
+      "fullname": "Ksenija Istomina",
+      "email": "ksenija_istomina@somebox.com",
+      "phone": "+79644546944",
+      "salary": 101900,
+      "city": "Novosibirsk",
+      "image_url": ""
+    },
+    "7917319": {
+      "id": 7917319,
+      "group": "CEO",
+      "fullname": "Nadezhda Levchenko",
+      "email": "nadezhda_levchenko@somebox.com",
+      "phone": "+79561466178",
+      "salary": 414400,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "5978226": {
+      "id": 5978226,
+      "group": "Teamleads",
+      "fullname": "Zlata Efimova",
+      "email": "zlata_efimova@somebox.com",
+      "phone": "+79211911456",
+      "salary": 263900,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "1986482": {
+      "id": 1986482,
+      "group": "Sales",
+      "fullname": "Timofej Kudrjashov",
+      "email": "timofej_kudrjashov@somebox.com",
+      "phone": "+79145093684",
+      "salary": 380000,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "7280750": {
+      "id": 7280750,
+      "group": "CEO",
+      "fullname": "Uljana Bezrukova",
+      "email": "uljana_bezrukova@somebox.com",
+      "phone": "+79391545711",
+      "salary": 117000,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "4761508": {
+      "id": 4761508,
+      "group": "Developers",
+      "fullname": "Galina Matveeva",
+      "email": "galina_matveeva@somebox.com",
+      "phone": "+79589047150",
+      "salary": 238200,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "2608132": {
+      "id": 2608132,
+      "group": "HR",
+      "fullname": "Marija Kovalevskaja",
+      "email": "marija_kovalevskaja@somebox.com",
+      "phone": "+79068687846",
+      "salary": 270500,
+      "city": "Chelyabinsk",
+      "image_url": ""
+    },
+    "1589075": {
+      "id": 1589075,
+      "group": "Teamleads",
+      "fullname": "Julija Lenskaja",
+      "email": "julija_lenskaja@somebox.com",
+      "phone": "+79064630080",
+      "salary": 380200,
+      "city": "Rostov",
+      "image_url": ""
+    },
+    "6657075": {
+      "id": 6657075,
+      "group": "Developers",
+      "fullname": "Julija Nazarova",
+      "email": "julija_nazarova@somebox.com",
+      "phone": "+79182462143",
+      "salary": 56400,
+      "city": "Kazan",
+      "image_url": ""
+    },
+    "5810187": {
+      "id": 5810187,
+      "group": "Financials",
+      "fullname": "Vladislav Beljakov",
+      "email": "vladislav_beljakov@somebox.com",
+      "phone": "+79039622601",
+      "salary": 132400,
+      "city": "Krasnoyarsk",
+      "image_url": ""
+    },
+    "4582838": {
+      "id": 4582838,
+      "group": "Sales",
+      "fullname": "Alena Kotova",
+      "email": "alena_kotova@somebox.com",
+      "phone": "+79785027153",
+      "salary": 51800,
+      "city": "Voronezh",
+      "image_url": ""
+    },
+    "5300508": {
+      "id": 5300508,
+      "group": "Sales",
+      "fullname": "Ekaterina Kovalevskaja",
+      "email": "ekaterina_kovalevskaja@somebox.com",
+      "phone": "+79044204408",
+      "salary": 255400,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "9202558": {
+      "id": 9202558,
+      "group": "Managers",
+      "fullname": "Valentina Levchenko",
+      "email": "valentina_levchenko@somebox.com",
+      "phone": "+79183719641",
+      "salary": 266000,
+      "city": "Volgograd",
+      "image_url": ""
+    },
+    "1558834": {
+      "id": 1558834,
+      "group": "Managers",
+      "fullname": "Timofej Djachkov",
+      "email": "timofej_djachkov@somebox.com",
+      "phone": "+79212143007",
+      "salary": 320000,
+      "city": "Omsk",
+      "image_url": ""
+    },
+    "2911723": {
+      "id": 2911723,
+      "group": "Teamleads",
+      "fullname": "Natalja Koroleva",
+      "email": "natalja_koroleva@somebox.com",
+      "phone": "+79851081199",
+      "salary": 353200,
+      "city": "Nizhniy Novgorod",
+      "image_url": ""
+    },
+    "9265472": {
+      "id": 9265472,
+      "group": "CEO",
+      "fullname": "Vladimir Guschin",
+      "email": "vladimir_guschin@somebox.com",
+      "phone": "+79632871458",
+      "salary": 79100,
+      "city": "Moscow",
+      "image_url": ""
+    },
+    "4728168": {
+      "id": 4728168,
+      "group": "Sales",
+      "fullname": "Stanislav Judin",
+      "email": "stanislav_judin@somebox.com",
+      "phone": "+79979828128",
+      "salary": 146700,
+      "city": "Saint-Petersburg",
+      "image_url": ""
+    },
+    "8501599": {
+      "id": 8501599,
+      "group": "Unmanaged",
+      "fullname": "Zinaida Rodochinskaja",
+      "email": "zinaida_rodochinskaja@somebox.com",
+      "phone": "+79885986379",
+      "salary": 150000,
+      "city": "Ufa",
+      "image_url": ""
+    },
+    "5228933": {
+      "id": 5228933,
+      "group": "Developers",
+      "fullname": "Kirill Ermakov",
+      "email": "kirill_ermakov@somebox.com",
+      "phone": "+79326559438",
+      "salary": 126100,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "7338552": {
+      "id": 7338552,
+      "group": "HR",
+      "fullname": "Zhanna Simonova",
+      "email": "zhanna_simonova@somebox.com",
+      "phone": "+79922548046",
+      "salary": 464500,
+      "city": "Ekaterinburg",
+      "image_url": ""
+    },
+    "3904937": {
+      "id": 3904937,
+      "group": "Managers",
+      "fullname": "Zlata Aleksandrova",
+      "email": "zlata_aleksandrova@somebox.com",
+      "phone": "+79642943344",
+      "salary": 248600,
+      "city": "Krasnodar",
+      "image_url": ""
+    },
+    "9144000": {
+      "id": 9144000,
+      "group": "CEO",
+      "fullname": "Natalja Gronskaja",
+      "email": "natalja_gronskaja@somebox.com",
+      "phone": "+79338598303",
+      "salary": 236900,
+      "city": "Samara",
+      "image_url": ""
+    },
+    "9600474": {
+      "id": 9600474,
+      "group": "Teamleads",
+      "fullname": "Vitalij Romanov",
+      "email": "vitalij_romanov@somebox.com",
+      "phone": "+79864562490",
+      "salary": 88500,
+      "city": "Krasnodar",
+      "image_url": ""
+    }
+  }
+}
