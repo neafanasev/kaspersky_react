@@ -29,7 +29,7 @@ const constructUsers = (users) => {
 export const initializeApp = createAsyncThunk(
   'users/getUsers',
   async (_, thunkAPI) => (
-    await axios.get('http://localhost:5000/get_users?number=10')
+    await axios.get('http://localhost:5000/get_users?number=500')
       .then((res) => res.data)
       .catch((err) => defaultUsersState)
   )
